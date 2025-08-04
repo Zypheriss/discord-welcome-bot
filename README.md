@@ -1,6 +1,5 @@
-# 🎉 zypheris HOŞGELDİN
+# 🎉 zypheris
 
-Kendi botunuzu kolayca kurmanız için yardım ve destek dökümanı.
 
 ---
 
@@ -16,8 +15,6 @@ Botla ilgili tüm sorularınız ve destek talepleriniz için:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilwixi7)
 
 ---
-
-## ❓ Sık Sorulan Sorular
 
 ### 🤖 Bot çalışmıyor mu?
 
@@ -40,7 +37,7 @@ Discord sunucumuzda **#istek** kanalından talep oluşturabilirsiniz.
 <details>
 <summary><strong>📸 Örnek Görseller</strong></summary>
 
-| Giriş Ekranı | Kayıt Ekranı |
+| Hoşgeldin | Görüşürüz |
 |:---:|:---:|
 | ![Giriş](zypp/zypheris-hg.png) | ![Kayıt](zypp/zypheris-hb.png) |
 
