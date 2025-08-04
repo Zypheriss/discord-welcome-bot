@@ -1,8 +1,12 @@
-# Botun Örnek görselleri
 
-![zypheris](./zypp/zypheris-hg.png) 
-![zypheris](./zypp/zypheris-hb.png) 
-![zypheris](./zypp/zypheris-canvas.png)
+<details>
+<summary><strong>📸 botun örnek görselleri</strong></summary>
+
+| Hoşgeldin  | Güle güle  | Canvas |
+|-------------|--------------|
+| ![Hoşgeldin](zypp/zypheris-hg.png) | ![Güle güle](zypp/zypheris-hb.png) | ![canvas](zypp/zypheris-canvas.png)
+
+---
 
 ## 📞 İletişim & Destek
 [![Discord](https://img.shields.io/badge/ZYPHERİS-DİSCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/773582512647569409)
