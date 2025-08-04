@@ -25,3 +25,29 @@ Botla ilgili tüm sorularınız ve destek talepleriniz için:
 - `npm init -y` komutunu çalıştırın.
 - `npm install` yapın.
 - Botu başlatmak için:
+node .
+
+yaml
+Kopyala
+Düzenle
+
+### 💡 Özel bot, program veya site isteğiniz mi var?
+
+Discord sunucumuzda **#istek** kanalından talep oluşturabilirsiniz.
+
+---
+
+<details>
+<summary><strong>📸 Örnek Görseller</strong></summary>
+
+| Giriş Ekranı | Kayıt Ekranı |
+|:---:|:---:|
+| ![Giriş](zypp/zypheris-hg.png) | ![Kayıt](zypp/zypheris-hb.png) |
+
+---
+
+| Canvas Örneği |
+|:---:|
+| ![Canvas](zypp/zypheris-canvas.png) |
+
+</details>
